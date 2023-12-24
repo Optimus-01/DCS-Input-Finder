@@ -1,7 +1,7 @@
 WHAT IS DCS-Input-Finder:
 DCS-Input-Finder is free to use and it finds your DCS control files and puts them in named folders that you can tell what plan is used for without all the hastle of looking for them and going into each folder and coping and pasting you just run the file follow the steps and it does it all for you.
 
-prerequisites: Python 3.13 or greater (https://www.python.org/downloads/) 
+Prerequisites: Python 3.13 or greater (https://www.python.org/downloads/) 
 
 HOW TO USE DCS-Input-Finder:
 DCS-Input-Finder is Very easy to use all you have to do is find your DCS input folder which is usually under "\Saved Games\DCS.openbeta\Config\Input" Then once you find that make a destination folder. When it asks you for a file extension it should be ".lua" 
